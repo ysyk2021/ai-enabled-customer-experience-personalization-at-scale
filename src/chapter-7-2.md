@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===============================================================================================================
 
 In this chapter, we will discuss how to manage ethics and bias in AI-enabled customer experience by mitigating risks and ensuring compliance. We will explore potential risks associated with AI in customer experience and provide strategies for mitigating these risks and ensuring regulatory compliance.
 

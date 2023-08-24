@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Customer Experience
-=====================================================================
 
 As AI becomes more prevalent in customer experience, it is important to consider the ethical implications and potential biases that may arise. In this chapter, we will explore the importance of ethical and unbiased customer experience practices when using AI, as well as techniques for mitigating risks and ensuring compliance.
 

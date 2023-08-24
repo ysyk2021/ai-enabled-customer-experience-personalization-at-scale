@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Personalization with AI
-============================================
 
 Artificial intelligence (AI) can be used to enhance personalization in the customer experience. In this chapter, we will explore how AI can be used to provide personalized recommendations and promotions tailored to each individual customer.
 

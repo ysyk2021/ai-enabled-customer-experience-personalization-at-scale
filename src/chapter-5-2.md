@@ -1,5 +1,3 @@
-Personalized Chatbots and Virtual Assistants using AI
-================================================================================================================
 
 In addition to improving marketing and sales, artificial intelligence (AI) can also be used to enhance customer service and support. In this chapter, we will explore how AI-powered chatbots and virtual assistants can provide personalized customer service at scale.
 

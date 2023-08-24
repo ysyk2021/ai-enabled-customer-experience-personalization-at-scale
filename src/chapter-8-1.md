@@ -1,5 +1,3 @@
-Emerging Trends in AI for Customer Experience and Engagement
-===========================================================================================================================================
 
 In this chapter, we will explore emerging trends in AI for customer experience and engagement. We will discuss the future of AI-enabled customer experience and how organizations can leverage these trends to improve their customer experience practices.
 

@@ -1,5 +1,3 @@
-Understanding the Role of AI in Customer Experience
-==============================================================================================================
 
 In this chapter, we will introduce the concept of AI-enabled customer experience and explore the role of AI in customer experience.
 

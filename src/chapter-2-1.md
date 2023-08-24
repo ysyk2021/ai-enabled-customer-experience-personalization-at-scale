@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=================================================================================================================
 
 Artificial intelligence (AI) can be used to enhance the customer experience. In this chapter, we will explore the available tools and technologies that can be used to implement AI-driven customer experiences.
 

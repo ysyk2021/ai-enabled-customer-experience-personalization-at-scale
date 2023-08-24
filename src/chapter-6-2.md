@@ -1,5 +1,3 @@
-Automated Sentiment Analysis and Response Generation using AI
-======================================================================================================================================
 
 Customer feedback and reviews are critical for understanding customer needs and improving the overall customer experience. However, managing and responding to feedback can be time-consuming and challenging. In this chapter, we will explore how AI can streamline customer feedback and review management through automated sentiment analysis and response generation.
 

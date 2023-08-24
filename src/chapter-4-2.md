@@ -1,5 +1,3 @@
-Automated Product Recommendations and Promotion using AI
-======================================================================================================
 
 Artificial intelligence (AI) can be used to enhance personalization in the customer experience. In this chapter, we will explore how AI can be used to provide automated product recommendations and promotions tailored to each individual customer.
 

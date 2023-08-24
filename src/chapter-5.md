@@ -1,5 +1,3 @@
-Chapter 5: Improving Customer Service and Support with AI
-=========================================================
 
 Artificial intelligence (AI) can be used to enhance customer service and support. In this chapter, we will explore how AI can be used to improve customer service and support in a variety of ways.
 

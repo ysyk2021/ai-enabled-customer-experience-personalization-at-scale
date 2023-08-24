@@ -1,5 +1,3 @@
-Using AI for Customer Data Collection and Analysis
-=======================================================================================================================
 
 Artificial intelligence (AI) can be used to enhance customer data collection and analysis. In this chapter, we will explore how AI can be used to collect and analyze customer data, providing insights that can be used to improve the customer experience.
 

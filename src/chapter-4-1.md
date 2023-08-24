@@ -1,5 +1,3 @@
-AI-Powered Personalization Techniques for Customer Experience
-===========================================================================================================
 
 Artificial intelligence (AI) can be used to enhance personalization in the customer experience. In this chapter, we will explore how AI can be used to provide personalized experiences tailored to each individual customer.
 

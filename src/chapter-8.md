@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Enabled Customer Experience
-=============================================================================
 
 As the field of AI continues to evolve, there are many emerging trends and opportunities for AI-enabled customer experience. In this chapter, we will explore these trends and opportunities, including the latest advances in AI for customer experience and engagement, as well as ways that companies can unlock new opportunities with AI.
 
