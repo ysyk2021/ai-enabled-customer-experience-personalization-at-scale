@@ -6,3 +6,7 @@ In this book, we will explore the ways that AI can enable personalized experienc
 Through this exploration, readers will gain a deeper understanding of the potential of AI in customer experience and learn how to leverage these tools to improve their own customer experiences. Whether you are a business owner, marketer, or customer service professional, this book is designed to help you harness the power of AI and unlock new opportunities for growth and success in the world of customer experience.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
