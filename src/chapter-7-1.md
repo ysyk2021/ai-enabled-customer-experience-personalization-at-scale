@@ -1,5 +1,4 @@
-Chapter: Importance of Ethical and Unbiased Customer Experience Practices
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
